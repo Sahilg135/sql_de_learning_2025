@@ -1,0 +1,13 @@
+# Windows noise
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.dbeaver/
+
+# Logs / temp
+*.log
+*~
+*.tmp
+.DS_Store
