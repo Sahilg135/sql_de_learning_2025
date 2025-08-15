@@ -1,0 +1,19 @@
+# OS/editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Python caches (if any)
+__pycache__/
+*.pyc
+
+# Data: keep directory, ignore contents
+datasets/raw/*
+!datasets/raw/.gitkeep
+datasets/processed/*
+!datasets/processed/.gitkeep
