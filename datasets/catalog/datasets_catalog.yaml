@@ -1,0 +1,49 @@
+tutorial_us_housing_units:
+  file: datasets/raw/csv/tutorial_us_housing_units.csv
+  schema: tutorial
+  table: us_housing_units
+
+tutorial_billboard_top_100_year_end:
+  file: datasets/raw/csv/tutorial_billboard_top_100_year_end.csv
+  schema: tutorial
+  table: billboard_top_100_year_end
+
+tutorial_aapl_historical_stock_price:
+  file: datasets/raw/csv/tutorial_aapl_historical_stock_price.csv
+  schema: tutorial
+  table: aapl_historical_stock_price
+
+tutorial_crunchbase_acquisitions:
+  file: datasets/raw/csv/tutorial_crunchbase_acquisitions.csv
+  schema: tutorial
+  table: crunchbase_acquisitions
+
+tutorial_crunchbase_companies:
+  file: datasets/raw/csv/tutorial_crunchbase_companies.csv
+  schema: tutorial
+  table: crunchbase_companies
+
+tutorial_crunchbase_investments:
+  file: datasets/raw/csv/tutorial_crunchbase_investments.csv
+  schema: tutorial
+  table: crunchbase_investments
+
+tutorial_crunchbase_investments_part1:
+  file: datasets/raw/csv/tutorial_crunchbase_investments_part1.csv
+  schema: tutorial
+  table: crunchbase_investments_part1
+
+tutorial_crunchbase_investments_part2:
+  file: datasets/raw/csv/tutorial_crunchbase_investments_part2.csv
+  schema: tutorial
+  table: crunchbase_investments_part2
+
+benn_college_football_players:
+  file: datasets/raw/csv/benn_college_football_players.csv
+  schema: benn
+  table: college_football_players
+
+benn_college_football_teams:
+  file: datasets/raw/csv/benn_college_football_teams.csv
+  schema: benn
+  table: college_football_teams
