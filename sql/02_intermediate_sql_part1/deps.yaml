@@ -1,1 +1,4 @@
 datasets:
+  - tutorial_crunchbase_companies
+  - tutorial_crunchbase_investments_part1
+  - tutorial_crunchbase_investments_part2

@@ -1,1 +1,3 @@
 datasets:
+  - tutorial_crunchbase_companies
+  - tutorial_crunchbase_acquisitions

@@ -1,1 +1,4 @@
 datasets:
+  - benn_college_football_players
+  - benn_college_football_teams
+  - tutorial_aapl_historical_stock_price

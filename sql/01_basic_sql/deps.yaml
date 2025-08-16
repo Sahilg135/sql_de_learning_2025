@@ -1,1 +1,4 @@
 datasets:
+  - tutorial_us_housing_units
+  - tutorial_billboard_top_100_year_end
+  - tutorial_aapl_historical_stock_price
