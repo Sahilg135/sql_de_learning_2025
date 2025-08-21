@@ -1,5 +1,5 @@
+-- db/ddl/002_set_search_path.sql
 -- Run connected to database: sql_de_lab
--- Optional but tidy: default to tutorial first, then public
 ALTER DATABASE sql_de_lab SET search_path = tutorial, public;
--- Apply for current session too (harmless if not supported by your tool):
+-- For current session (optional but convenient):
 SET search_path = tutorial, public;

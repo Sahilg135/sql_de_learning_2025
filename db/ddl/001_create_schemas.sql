@@ -1,4 +1,8 @@
--- Run connected to database: sql_de_lab
--- Creates the schemas used by your SQL files. Safe to re-run.
+-- db/ddl/001_create_schemas.sql
 CREATE SCHEMA IF NOT EXISTS tutorial;
 CREATE SCHEMA IF NOT EXISTS benn;
+
+
+
+
+

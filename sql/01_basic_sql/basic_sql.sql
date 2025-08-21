@@ -37,7 +37,7 @@ SELECT
       west AS West_Region,
       south AS South_Region
 FROM 
-      tutorial.us_housing_units
+      tutorial.us_housing_units;
   
   -- if we want column names in specific format, use double quotes - 
   
@@ -45,7 +45,7 @@ FROM
         west AS "WeSt_ReGioN",
         south AS "South_Region"
   FROM 
-        tutorial.us_housing_units
+        tutorial.us_housing_units;
   
   
 -- Using the SQL LIMIT command
