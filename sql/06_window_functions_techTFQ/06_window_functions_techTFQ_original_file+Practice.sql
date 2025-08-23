@@ -184,18 +184,10 @@ SELECT
 FROM employee e;
 
 
-
-
 SELECT 
 	e.*,
 	lag(salary) over(ORDER BY emp_id) AS pervious_emp_salary
 FROM employee e; 
-
-
-SELECT 
-	e.*,
-	lag(salary) over(PARTITION BY dept_name) AS pervious_emp_salary
-FROM employee e;
 
 
 SELECT 
@@ -241,6 +233,7 @@ FROM employee e;
 */
 
 
+-- lead() - 
 SELECT 
 	e.*,
 	lead(salary) over() AS next_emp_salary
